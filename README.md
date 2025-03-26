@@ -6,10 +6,8 @@
 ### Cài đặt CSDL
 
 1. Tải và giải nén project
-2. Mở thư mục "Database", sao đó copy 2 file vào trong đường dẫn sau: C:\Program Files\Microsoft SQL Server\<Tên server>\MSSQL\DATA
-3. Mở SQL Serevr Management và kết nối vào CSDL
-4. Chuột phải Database > Attach.. > Add > Chọn JobsFinder.mdf > OK > OK
-5. Reload để kiểm tra csdl
+2. Mở thư mục "Database", sau đó backup file .bak vào sql server.
+3. Reload để kiểm tra csdl
 
 
 ## Cài đặt project.
